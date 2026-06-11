@@ -1,7 +1,5 @@
 # Sports Analytics Portfolio
 
-Analytics professional with a background in applied data science and consulting, focused on transforming complex sport data into decisions — across high-performance, coaching, and sport-technology contexts.
-
 This repository contains selected projects demonstrating applied modeling, visualization, and data-engineering workflows using real-world sport datasets.
 
 ---
