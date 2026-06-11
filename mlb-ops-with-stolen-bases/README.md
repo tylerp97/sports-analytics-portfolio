@@ -9,7 +9,7 @@
 
 On-base Plus Slugging (OPS) is one of the most widely used batting efficiency metrics in baseball, but it ignores baserunning entirely. This project introduces a modified metric — OPS+SB — that incorporates stolen base value using a run expectancy framework, then measures how player rankings shift as a result.
 
-The analysis uses 2024 MLB season data and treats stolen bases as fractional run contributions rather than raw counting stats.
+The analysis uses 2024 MLB season data and treats stolen bases as a positive and caught stealing as a negative.
 
 ---
 
