@@ -9,7 +9,7 @@
 
 Developed as part of the **NFL Big Data Bowl** competition. This project creates a custom "in-stride" metric that quantifies how quarterback ball placement affects receiver acceleration and route disruption around the catch point.
 
-Using frame-level player tracking data, the analysis connects receiver speed-up and slow-down to passing efficiency and play outcomes — surfacing a dimension of QB accuracy that traditional completion percentage ignores.
+Using frame-level player tracking data, the analysis connects receiver speed-up and slow-down to passing efficiency and play outcomes and attempts to surface a dimension of QB accuracy that traditional completion percentage ignores.
 
 ---
 
