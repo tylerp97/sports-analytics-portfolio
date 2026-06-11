@@ -11,3 +11,22 @@
 
 # Python
 __pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Data files — large or sensitive datasets should not be committed
+*.parquet
+*.feather
+*.pkl
+*.h5
+
+# Environment / secrets
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
